@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   catz = ["meow" , "purr" , "tabby" , "turtoise shell"]
-  catz << 
+  catz << "whiskers"
 end
 
 def add_element_to_start_of_array(array, element)
