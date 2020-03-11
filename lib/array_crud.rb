@@ -7,7 +7,6 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  catz = ["meow" , "purr" , "tabby" , "turtoise shell"]
   catz << "whiskers"
 end
 
